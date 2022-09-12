@@ -1,0 +1,15 @@
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\bin\Debug\net6.0\ConsoleInputs.deps.json
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\bin\Debug\net6.0\ConsoleInputs.dll
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\bin\Debug\net6.0\ConsoleInputs.pdb
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\bin\Debug\net6.0\Validations.dll
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\bin\Debug\net6.0\Validations.pdb
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\obj\Debug\net6.0\ConsoleInputs.csproj.AssemblyReference.cache
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\obj\Debug\net6.0\ConsoleInputs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\obj\Debug\net6.0\ConsoleInputs.AssemblyInfoInputs.cache
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\obj\Debug\net6.0\ConsoleInputs.AssemblyInfo.cs
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\obj\Debug\net6.0\ConsoleInputs.csproj.CoreCompileInputs.cache
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\obj\Debug\net6.0\ConsoleInputs.csproj.CopyComplete
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\obj\Debug\net6.0\ConsoleInputs.dll
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\obj\Debug\net6.0\refint\ConsoleInputs.dll
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\obj\Debug\net6.0\ConsoleInputs.pdb
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\ConsoleInput\obj\Debug\net6.0\ref\ConsoleInputs.dll

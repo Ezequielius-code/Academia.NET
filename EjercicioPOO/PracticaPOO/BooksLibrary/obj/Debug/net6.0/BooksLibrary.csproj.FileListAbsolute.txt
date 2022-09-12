@@ -1,0 +1,12 @@
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\bin\Debug\net6.0\BooksLibrary.deps.json
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\bin\Debug\net6.0\BooksLibrary.dll
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\bin\Debug\net6.0\BooksLibrary.pdb
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\obj\Debug\net6.0\BooksLibrary.csproj.AssemblyReference.cache
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\obj\Debug\net6.0\BooksLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\obj\Debug\net6.0\BooksLibrary.AssemblyInfoInputs.cache
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\obj\Debug\net6.0\BooksLibrary.AssemblyInfo.cs
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\obj\Debug\net6.0\BooksLibrary.csproj.CoreCompileInputs.cache
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\obj\Debug\net6.0\BooksLibrary.dll
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\obj\Debug\net6.0\refint\BooksLibrary.dll
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\obj\Debug\net6.0\BooksLibrary.pdb
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\BooksLibrary\obj\Debug\net6.0\ref\BooksLibrary.dll

@@ -1,0 +1,19 @@
+﻿@page
+@model Razor_EF.Pages.Tareas.guardarModel
+@{
+    ViewData["Title"] = "Guardar Tareas";
+}
+<div class="card-body">
+            <!--Formulario de recepción de datos-->
+    <form method="post">
+        <div class="container" style="padding:30px">
+            <div class="form-group">
+                <label asp-for="tareaGuardable.NombreTarea">Nombre tarea</label>
+            </div>
+            <div>
+                <input asp-for="tareaGuardable.NombreTarea" class="form-control"/>
+            </div>
+            <span asp-validation-for="tareaGuardable.NombreTarea" class="text-danger"/>
+        </div>
+    </form>
+</div>

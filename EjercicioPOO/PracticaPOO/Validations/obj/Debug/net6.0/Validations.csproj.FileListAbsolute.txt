@@ -1,0 +1,12 @@
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\bin\Debug\net6.0\Validations.deps.json
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\bin\Debug\net6.0\Validations.dll
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\bin\Debug\net6.0\Validations.pdb
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\obj\Debug\net6.0\Validations.csproj.AssemblyReference.cache
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\obj\Debug\net6.0\Validations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\obj\Debug\net6.0\Validations.AssemblyInfoInputs.cache
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\obj\Debug\net6.0\Validations.AssemblyInfo.cs
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\obj\Debug\net6.0\Validations.csproj.CoreCompileInputs.cache
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\obj\Debug\net6.0\Validations.dll
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\obj\Debug\net6.0\refint\Validations.dll
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\obj\Debug\net6.0\Validations.pdb
+D:\Documentos\Academia .NET Softtek\EjercicioPOO\PracticaPOO\Validations\obj\Debug\net6.0\ref\Validations.dll

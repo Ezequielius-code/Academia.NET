@@ -1,0 +1,51 @@
+﻿@page
+@model Razor_EF.Pages.Tareas.IndexModel
+@{
+    ViewData["Title"] = "Tareas";
+}
+<h1>Listado de tareas</h1>
+<div>
+    <h4>¿Desea aggregar una nueva tarea?</h4>
+    <a asp-page="guardar" class="btn btn-primary">Sí, crear</a>
+</div>
+<div class="card-body">
+    <form method="post">
+        @if (Model.TareasListadas.Count() > 0)
+        {
+            <table class="table table-striped border">
+                <tr class="table-secondary">
+                    <th>@Html.DisplayNameFor(m => m.TareasListadas.First().IdTarea)</th>
+                    <th>@Html.DisplayNameFor(m => m.TareasListadas.First().NombreTarea)</th>
+                    <th>@Html.DisplayNameFor(m => m.TareasListadas.First().Descripcion)</th>
+                    <th>@Html.DisplayNameFor(m => m.TareasListadas.First().FechaDeCreacion)</th>
+                    <th>@Html.DisplayNameFor(m => m.TareasListadas.First().Estado)</th>
+                    <th>@Html.DisplayNameFor(m => m.TareasListadas.First().Categoria)</th>
+                    <th>@Html.DisplayNameFor(m => m.TareasListadas.First().CategoriaId)</th>}
+                    <th>Acciones</th>
+                </tr>
+                @foreach (var item in Model.TareasListadas)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(m => item.IdTarea)</td>
+                        <td>@Html.DisplayFor(m => item.NombreTarea)</td>
+                        <td>@Html.DisplayFor(m => item.Descripcion)</td>
+                        <td>@Html.DisplayFor(m => item.FechaDeCreacion)</td>
+                        <td>@Html.DisplayFor(m => item.Estado)</td>
+                        <td>@Html.DisplayFor(m => item.Categoria)</td>
+                        <td>@Html.DisplayFor(m => item.CategoriaId)</td>
+                        <td>
+                                <!--Acciones de edición y eliminado-->
+                            <a asp-route-id="@item.IdTarea" asp-page="actualizar" class="btn btn-secondary">Editar</a>
+                            <button asp-page-handler="eliminar" asp-route-id="@item.IdTarea"
+                            class="btn btn-danger" onclick="return confirm('¿Eliminar el registro?')">Borrar</button>
+                        </td>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <p>Aún no hay tareas!</p>
+        }
+    </form>
+</div>

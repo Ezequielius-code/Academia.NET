@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI-EF", "MinimalAPI-EF\MinimalAPI-EF.csproj", "{BC2E59B6-4FFB-4935-882C-0AF9405A5FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2E59B6-4FFB-4935-882C-0AF9405A5FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2E59B6-4FFB-4935-882C-0AF9405A5FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2E59B6-4FFB-4935-882C-0AF9405A5FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2E59B6-4FFB-4935-882C-0AF9405A5FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DF2E115-6C09-4375-9635-1B97332525E1}
+	EndGlobalSection
+EndGlobal

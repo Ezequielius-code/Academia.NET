@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BooksLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BooksLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BooksLibrary.dll": {}
+        }
+      },
+      "ConsoleInputs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Validations": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleInputs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleInputs.dll": {}
+        }
+      },
+      "Validations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Validations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Validations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BooksLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BooksLibrary/BooksLibrary.csproj",
+      "msbuildProject": "../BooksLibrary/BooksLibrary.csproj"
+    },
+    "ConsoleInputs/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleInput/ConsoleInputs.csproj",
+      "msbuildProject": "../ConsoleInput/ConsoleInputs.csproj"
+    },
+    "Validations/1.0.0": {
+      "type": "project",
+      "path": "../Validations/Validations.csproj",
+      "msbuildProject": "../Validations/Validations.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BooksLibrary >= 1.0.0",
+      "ConsoleInputs >= 1.0.0",
+      "Validations >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Documentos\\Academia .NET Softtek\\EjercicioPOO\\PracticaPOO\\Libros\\Books.csproj",
+      "projectName": "Books",
+      "projectPath": "D:\\Documentos\\Academia .NET Softtek\\EjercicioPOO\\PracticaPOO\\Libros\\Books.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos\\Academia .NET Softtek\\EjercicioPOO\\PracticaPOO\\Libros\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Documentos\\Academia .NET Softtek\\EjercicioPOO\\PracticaPOO\\BooksLibrary\\BooksLibrary.csproj": {
+              "projectPath": "D:\\Documentos\\Academia .NET Softtek\\EjercicioPOO\\PracticaPOO\\BooksLibrary\\BooksLibrary.csproj"
+            },
+            "D:\\Documentos\\Academia .NET Softtek\\EjercicioPOO\\PracticaPOO\\ConsoleInput\\ConsoleInputs.csproj": {
+              "projectPath": "D:\\Documentos\\Academia .NET Softtek\\EjercicioPOO\\PracticaPOO\\ConsoleInput\\ConsoleInputs.csproj"
+            },
+            "D:\\Documentos\\Academia .NET Softtek\\EjercicioPOO\\PracticaPOO\\Validations\\Validations.csproj": {
+              "projectPath": "D:\\Documentos\\Academia .NET Softtek\\EjercicioPOO\\PracticaPOO\\Validations\\Validations.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
